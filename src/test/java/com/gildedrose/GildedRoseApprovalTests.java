@@ -68,12 +68,14 @@ public class GildedRoseApprovalTests {
     void aged_brie() {
         Item[] items = new Item[]{
                 new Item("Aged Brie",2,50),
+                new Item("Aged Brie",2,49),
                 new Item("Aged Brie",2,40),
                 new Item ("Aged Brie",2,0),
                 new Item("Aged Brie",2,10),
                 new Item("Aged Brie",1,10),
                 new Item ("Aged Brie",0,10),
                 new Item("Aged Brie",-1,10),
+                new Item("Aged Brie",1,0),
         };
         new GildedRose(items).updateQuality();
         Approvals.verify(Arrays.deepToString(items));

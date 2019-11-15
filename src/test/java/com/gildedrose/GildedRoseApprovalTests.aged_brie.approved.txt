@@ -1,1 +1,1 @@
-[Aged Brie, 1, 50, Aged Brie, 1, 41, Aged Brie, 1, 1, Aged Brie, 1, 11, Aged Brie, 0, 11, Aged Brie, -1, 12, Aged Brie, -2, 12]
+[Aged Brie, 1, 50, Aged Brie, 1, 50, Aged Brie, 1, 41, Aged Brie, 1, 1, Aged Brie, 1, 11, Aged Brie, 0, 11, Aged Brie, -1, 12, Aged Brie, -2, 12, Aged Brie, 0, 1]
